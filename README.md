@@ -29,5 +29,5 @@ requirements
 
  - copy the URL to your minecraft SERVER IP.
 7. Notes
- - if you are not using minecraft original version, go to **server.properties** on forked rep and change online-mode to false *and rebuild the app at heroku*.
+ - if you are not using minecraft original version, go to **server.properties** on forked rep and change online-mode to false.
  - this way are 100% free but when you are not using the server, heroku'll disable him. Dont worry, just disable and enable **worker dyno (restart)** on resources menu item, this will change ngrok url adress then go to ngrok status again and copy the new url.
