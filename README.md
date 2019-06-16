@@ -22,7 +22,7 @@ requirements
 5. back to your [Heroku](https://www.heroku.com/) app dashboard.
 	 - click on Deploy menu item, find Deployment method section and click on **GitHub**.
 	 - after connected, find your app rep at **Connect to GitHub**.
-	 - click on ![Deploy](https://cdn-moor.000webhostapp.com/repositorio/YnV0dG9uMi5wbmc=.jpg and wait.
+	 - click on ![Deploy](https://cdn-moor.000webhostapp.com/repositorio/YnV0dG9uMi5wbmc=.jpg) and wait.
 	 - Go to resources menu item, disable web button and enable worker button (if worker are not there, update the page)
 6. if all is right, go to [Ngrok](https://ngrok.com/) status menu item and wait for that:
 ![](https://cdn-moor.000webhostapp.com/repositorio/bmdyb2sucG5n.jpg).
