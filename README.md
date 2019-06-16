@@ -11,6 +11,7 @@ requirements
 	 - choose a name and click on create app.
 	 - at app dashboard click on settings, find Buildpacks section and click on add buildpack.
 	 - write `heroku/jvm` on **Buildpack URL** and save changes.
+	 - add another buildpack with this url: `heroku/nodejs`.
 3. Create account in [Ngrok](https://ngrok.com/)
 	 - click on Auth menu item and copy your **Tunnel Authtoken**.
 4. Fork this rep ![fork](https://cdn-moor.000webhostapp.com/repositorio/YnV0dG9uMS5wbmc=.jpg)
