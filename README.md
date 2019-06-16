@@ -31,4 +31,4 @@ requirements
 	 - copy the URL to your minecraft SERVER IP.
 7. Notes
 	 - if you are not using minecraft original version, go to **server.properties** and change online-mode prop to false.
-	 - this way are 100% free but when you are not using the server, heroku'll disable him. Dont worry, just disable and enable **worker dyno (restart)** on resources menu item, this will change ngrok url adress then go to ngrok status again and copy the new url.
+	 - this way are 100% free but when you are not using the server, heroku'll disable him (5 min). so when you are not using the server please disable worker dyno and just enable when you'll play, this will change ngrok url adress then go to ngrok status again and copy the new url.
