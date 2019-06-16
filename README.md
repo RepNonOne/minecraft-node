@@ -17,6 +17,8 @@ requirements
  - on your forked rep, paste your **Tunnel Authtoken** at server.js file.
  - go to [Mcversions](https://mcversions.net/) and download the server version that you want.
  - move and rename downloaded server file to your forked rep with **server.jar** name.
+ - at inside directory run `npm install` command, after that `node server.js` and wait server generation files.
+ - send all modifications to your github, if you are not using minecraft original, read 7 step.
 5. back to your [Heroku](https://www.heroku.com/) app dashboard.
  - click on Deploy menu item, find Deployment method section and click on **GitHub**.
  - after connected, find your app rep at **Connect to GitHub**.
