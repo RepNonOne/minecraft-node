@@ -1,0 +1,28 @@
+{
+  "name": "minecraft-node",
+  "version": "1.0.0",
+  "description": "A minecraft server with node runtime",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo nothinghere"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/CripBoy/minecraft-node.git"
+  },
+  "keywords": [
+    "minecraft",
+    "minecraft-server",
+    "heroku-minecraft"
+  ],
+  "author": "cripboy (pedro lucas)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CripBoy/minecraft-node/issues"
+  },
+  "homepage": "https://github.com/CripBoy/minecraft-node#readme",
+  "dependencies": {
+    "ngrok": "^3.1.1",
+    "scriptserver": "^1.1.0"
+  }
+}
