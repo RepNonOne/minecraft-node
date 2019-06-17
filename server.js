@@ -5,7 +5,7 @@ const ngrok = require('ngrok');
 ngrok.connect({
     proto: 'tcp',
     addr: 25565,
-    authtoken: 'uRX9yGMLXiEFsRpPaStZ_3nXCzGn4Yun5RHUAkYuuR',
+    authtoken: '47Q6xFBA6vifnv4jHrujP_LrgcRkT7XVXmdkkY2jE8',
     region: 'us'
 });
 
